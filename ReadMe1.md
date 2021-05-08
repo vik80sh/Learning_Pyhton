@@ -17,5 +17,43 @@ print('My name is {name} and I am {age}'.format(name=name, age=age);
 ```
 ### F-string format v>=3.6
 ```
-print(f'My name is {name} and i am {age})
+print(f'My name is {name} and i am {age}')
+```
+
+### String Method
+
+```
+
+s = "hello there world
+
+```
+
+### Capitalize first letter
+
+```
+
+print(s.capitalize())
+
+ #Hello  there world
+
+```
+
+### all upper case
+
+```
+
+print(s.upper())
+
+ #HELLO THERE WORLD
+
+```
+
+### all lower case
+
+```
+
+print(s.lower())
+
+ #HELLO THERE WORLD
+
 ```
